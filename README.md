@@ -6,8 +6,12 @@
 **Domain:** Front-End Development  
 **Duration:** 4 Weeks  
 **Mentor:** Neela Santosh Kumar
+
+
+
 #OUTPUT 
 <img width="474" height="388" alt="Image" src="https://github.com/user-attachments/assets/b5ab2fda-187a-46e0-8f2e-9f183af7178d" />
+
 
 ## 📌 Project Overview
 The **Interactive Quiz Application** is a dynamic web-based tool designed to test user knowledge through multiple-choice questions. Built during a 4-week internship at Codtech IT Solutions, this project demonstrates core front-end development skills including semantic HTML structure, responsive CSS design, and interactive JavaScript logic.
